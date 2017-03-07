@@ -1,0 +1,19 @@
+#mainContent{
+	margin: 10vh 35vw;
+	float: left;
+	width: 50vw;
+}
+#mainContent img{
+	width: 70%;
+	margin-left: 15%;
+}
+blockquote{
+	padding: 3px;
+	margin-left: 0;
+	border-left: 10px solid gray;
+	width: 100%;
+	text-align: left;
+}
+#mainContent span{
+	cursor: pointer;
+}
